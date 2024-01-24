@@ -1,1 +1,2 @@
 This is my third test file..
+Second line entered into the third file.
